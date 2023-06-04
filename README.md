@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android, Kotlin, Java
 - 🌱 I’m currently learning Firebase
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me tg: @staskokoc
+- 📫 How to reach me: tg @staskokoc
 
 <!---
 kolisnichenko2828/kolisnichenko2828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
