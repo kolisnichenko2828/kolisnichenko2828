@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android, Kotlin, Java
 - 🌱 I’m currently learning Firebase
 - 💞️ I’m looking to collaborate on ...
-- 📫 My telegram: @staskokoc
+- 📫 My telegram: @staskokos
 
 <!---
 kolisnichenko2828/kolisnichenko2828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
