@@ -4,11 +4,11 @@
 - Retrofit 2, OkHttp, Ktor
 - Gson, Kotlin Serialization
 - Glide, Coil
-- Fragments
+- Fragments, Jetpack Navigation
 - RecyclerView, ListAdapter
 - Lifecycle, ViewModel, LiveData
 - SharedPreferences, Room
-- Jetpack Navigation, Jetpack Compose
+- Jetpack Compose Navigation, Jetpack Compose
 - Koin, Hilt, Dagger 2
 - SOLID, Clean Architecture, MVVM
 
