@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @kolisnichenko2828
-- 👀 I’m interested in Android, Kotlin, Java
-- 🌱 I’m currently learning Firebase
-- 💞️ I’m looking to collaborate on ...
-- 📫 My telegram: @staskokos
+# Tech stack
+- Java, Kotlin, OOP
+- Kotlin Coroutines
+- Retrofit 2, OkHttp, Ktor
+- Gson, Kotlin Serialization
+- Glide, Coil
+- Fragments
+- RecyclerView, ListAdapter
+- Lifecycle, ViewModel, LiveData
+- SharedPreferences, Room
+- Jetpack Navigation, Jetpack Compose
+- Koin, Hilt, Dagger 2
+- SOLID, Clean Architecture, MVVM
 
-<!---
-kolisnichenko2828/kolisnichenko2828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Follow me on Linkedin
+linkedin.com/in/stanislav-kolisnichenko-057739270/
