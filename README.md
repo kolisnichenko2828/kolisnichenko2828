@@ -8,7 +8,7 @@
 - RecyclerView, ListAdapter
 - Lifecycle, ViewModel, LiveData
 - SharedPreferences, Room
-- Jetpack Compose Navigation, Jetpack Compose
+- Jetpack Compose, Jetpack Compose Navigation
 - Koin, Hilt, Dagger 2
 - SOLID, Clean Architecture, MVVM
 
