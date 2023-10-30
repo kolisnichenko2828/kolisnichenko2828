@@ -11,6 +11,3 @@
 - Jetpack Compose, Jetpack Compose Navigation
 - Koin, Hilt, Dagger 2
 - SOLID, Clean Architecture, MVVM
-
-# Follow me on Linkedin
-https://linkedin.com/in/stanislav-kolisnichenko-057739270
