@@ -13,4 +13,4 @@
 - SOLID, Clean Architecture, MVVM
 
 # Follow me on Linkedin
-https://linkedin.com/in/stanislav-kolisnichenko-057739270/
+https://linkedin.com/in/stanislav-kolisnichenko-057739270
