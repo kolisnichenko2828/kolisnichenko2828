@@ -1,14 +1,2 @@
 # Tech stack
-- Java, Kotlin, OOP
-- Kotlin Coroutines
-- Retrofit 2, OkHttp, Ktor
-- Gson, Kotlin Serialization
-- Glide, Coil
-- Fragments, Jetpack Navigation with Safe Args
-- RecyclerView, ListAdapter
-- Lifecycle, ViewModel, LiveData
-- SharedPreferences, Room
-- Jetpack Compose, Jetpack Compose Navigation
-- Koin, Hilt, Dagger 2
-- SOLID, Clean Architecture, MVVM
-- KSP
+- Java, Kotlin, Android, XML, Compose, SOLID, DI, REST API, SQLite, GIT
