@@ -1,2 +1,2 @@
 # Tech stack
-- Java, Kotlin, Android, XML, Compose, SOLID, DI, REST API, SQLite, GIT
+- Kotlin/Java, Jetpack Compose, Coroutines/Flow, Dagger/Koin, Firebase, Unit Testing, Room/SQLDelight, Retrofi/Ktor
